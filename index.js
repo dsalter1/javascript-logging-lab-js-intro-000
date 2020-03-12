@@ -1,2 +1,2 @@
-js.console.error("this is an error
-")
+js.console.error("ooops")
+
