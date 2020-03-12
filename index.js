@@ -1,3 +1,3 @@
-jsconsole.error("ooops")
-jsconsole.log("1 + 1")
-jsconsole.warn ("2")
+console.error("ooops")
+console.log("yo")
+console.warn("help")
