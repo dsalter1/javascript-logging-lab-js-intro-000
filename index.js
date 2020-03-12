@@ -1,1 +1,1 @@
-js.console.error("ooops")
+console.error("ooops")
